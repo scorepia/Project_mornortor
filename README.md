@@ -1,2 +1,2 @@
-# Project_mornortor
+# Signature generation
 Deep Learning Project
